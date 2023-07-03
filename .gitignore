@@ -1,0 +1,5 @@
+package-lock.json
+node_modules
+coverage
+.env.development
+.env.production
