@@ -1,6 +1,6 @@
 # Setup
 
-W celu uruchomienia aplikacji na lokalnym środowisku konieczne jest skopiowanie zawrtości `.env.sample` do `.env.development`, a następnie uruchomienie poleceń
+W celu uruchomienia aplikacji na lokalnym środowisku konieczne jest skopiowanie zawartości `.env.sample` do `.env.development`, uzupełnienie informacjami z przesłanego pliku (adres api oraz access key) a następnie uruchomienie poleceń:
 
 `npm install`
 
