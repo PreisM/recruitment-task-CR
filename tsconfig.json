@@ -41,8 +41,8 @@
       "@stores/*": [
         "./src/stores/*"
       ],
-      "@quarks/*": [
-        "./src/components/quarks/*"
+      "@plugins/*": [
+        "./src/plugins/*"
       ],
       "@atoms/*": [
         "./src/components/atoms/*"

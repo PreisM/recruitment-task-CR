@@ -22,7 +22,7 @@ export default defineConfig({
       '@locales': path.resolve(__dirname, './src/locales'),
       '@api': path.resolve(__dirname, './src/api'),
       '@stores': path.resolve(__dirname, './src/stores'),
-      '@quarks': path.resolve(__dirname, './src/components/quarks'),
+      '@plugins': path.resolve(__dirname, './src/plugins'),
       '@atoms': path.resolve(__dirname, './src/components/atoms'),
       '@molecules': path.resolve(__dirname, './src/components/molecules'),
       '@organisms': path.resolve(__dirname, './src/components/organisms'),
