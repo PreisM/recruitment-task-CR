@@ -11,6 +11,7 @@ const i18n = createI18n({
   globalInjection: true,
   legacy: false,
   locale: 'pl',
+  warnHtmlMessage: false,
   messages
 })
 
